@@ -1,0 +1,7 @@
+frontend/.vscode
+frontend/node_modules
+
+backend/.venv
+backend/dist
+backend/.git
+backend/.env
